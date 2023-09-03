@@ -32,3 +32,5 @@ Please note that our team adheres to the code of conduct of the open-source comm
 Thank you for your support to the Interstellar-database team! We look forward to creating and sharing a more fun and usable database project with you! 🌌✨🚀
 
  🎉😊👍
+
+(By the way, quietly tell everyone something. The organizer, Hengshizhi, has no time in his first year of high school.)
