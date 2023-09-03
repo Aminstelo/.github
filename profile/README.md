@@ -31,4 +31,4 @@ Please note that our team adheres to the code of conduct of the open-source comm
 
 Thank you for your support to the Interstellar-database team! We look forward to creating and sharing a more fun and usable database project with you! 🌌✨🚀
 
-Feel free to modify and add more details based on your team's actual situation. If you have any further questions, please don't hesitate to ask. Wishing your team's project great success! 🎉😊👍
+ 🎉😊👍
