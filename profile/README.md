@@ -8,7 +8,7 @@
 
 🚀 Our main project is Interstellar-database, an open-source project aimed at providing a more fun and usable database. We are committed to developing innovative features, delivering efficient database performance, and providing a user-friendly interface and documentation.
 
-In addition to Interstellar-database, we have an exciting side project called MCSL2. MCSL2 is a database-related project that offers a set of tools and solutions for managing and monitoring databases.
+In addition to the interstellar database, we also have an exciting cross project called MCSL2. MCSL2 is a database related project that provides comprehensive MC server opening functionality
 
 Feel free to visit our GitHub page to learn more about the Interstellar-database and MCSL2 projects.
 
