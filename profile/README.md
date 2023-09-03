@@ -2,7 +2,7 @@
 
 ## About Us
 
-🌟 Welcome to the GitHub page of the Interstellar-database team! We are a passionate and creative group dedicated to developing and sharing a more fun and usable database. Our team consists of members from diverse backgrounds and fields, all striving for technological innovation and excellence.
+🌟 Welcome to the GitHub page of the Interstellar-database team! We are a passionate and creative group dedicated to developing and sharing a more fun and usable database. Our team is composed of motivated young individuals with diverse backgrounds from different regions, all striving for technological innovation and excellence.
 
 ## Projects
 
