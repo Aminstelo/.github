@@ -34,3 +34,24 @@ Thank you for your support to the Interstellar-database team! We look forward to
  🎉😊👍
 
 (By the way, quietly tell everyone something. The organizer, Hengshizhi, has no time in his first year of high school.)
+
+
+#星际数据库团队招新
+团队招新:星际数据库团队在此招募贤士.星际数据库是一个新兴的团队,背靠开源社区,通过p2p 区块链等技术,开发去中心化的数据库,使得数据能够安全可靠的储存和访问.
+语言:`C++`,`python`,`js`
+技术栈:网络编程,区块链技术,数据库技术,前端开发
+加入要求:
+1.至少熟悉一门语言的应用
+2.会用git和github,使用QQ进行交流
+3.至少会技术栈中的一门技术(或者分支技术)
+4.有良好的开发习惯,善于与人交流,说话不能有明显语病,多谢注释
+5.初中二年级-高中二年级,熟悉面向对象编程
+加入流程:
+1.将自己的基本信息(QQ号,github地址)发送至interstellar-database@outlook.com
+2.等待回信或者QQ联系
+3.选择你的任务
+4.完成第一个任务即可正式加入团队
+加入须知:
+1.开发组长是一个高一学习,每周只有周日12:00-15:30有时间上线,节假日除外,所以更喜欢高一的
+2.星际数据库是一个非盈利的项目
+Github:https://github.com/Interstellar-database
